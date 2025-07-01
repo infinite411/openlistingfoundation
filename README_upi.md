@@ -155,4 +155,4 @@ Email: [m6232936791@gmail.com](mailto:m6232936791@gmail.com)
 
 - [ISO 3166-1 Country Codes](https://www.iso.org/iso-3166-country-codes.html)  
 - [US FIPS Jurisdiction Codes](https://www.census.gov/library/reference/code-lists.html)  
-- [Open Listing Foundation - UPI Standard v1.0](#) *(Insert official link once available)*  
+- [Open Listing Foundation - UPI Standard v1.0](https://docs.google.com/document/d/1dM_Qmeh_vGlBFSrFfQQ_1czwYg33Rjlgpc3CvBNwfNk/edit?usp=sharing)  
